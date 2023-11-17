@@ -1,0 +1,51 @@
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    background-attachment: fixed;
+    background-color: lightblue;
+
+}
+
+
+header h1 {
+    border: 3px solid navy;
+    background-color: rgb(0, 200, 255);
+    border-radius: 10px;
+
+}
+
+header p {
+    background-color: lightskyblue;
+    border: 3px solid lightskyblue;
+    border-radius: 3px;
+}
+
+body h2 {
+    text-align: center;
+}
+
+body h3 {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+}
+
+main h2 {
+    background-color: rgb(0, 200, 255);
+    border: 3px solid blue;
+    border-radius: 3px;
+}
+
+main h3 {
+    border: 3px solid ightskyblue;
+    background-color: rgb(0, 200, 255);
+    border-radius: 3px;
+}
+
+main p {
+    background-color: lightskyblue;
+    border: 3px solid ightskyblue;
+    border-radius: 3px;
+}
+
